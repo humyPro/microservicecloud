@@ -1,0 +1,1 @@
+被监控的服务必须要有hystrix熔断服务以及导入了actuator的jar
